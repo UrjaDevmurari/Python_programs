@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4dc5f35-4525-4df0-9ea2-cdcdb71f2849" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>format</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Urja Devmurari\PycharmProjects\Programs_practice_Udemy</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1QfC3UvvJKoEaMnoKQtXBi7T25n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.immutable">
+    <configuration name="CustomExceptionClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CustomExceptionClass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ErrorHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ErrorHandling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_composition_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_composition_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functionAsArgument" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionAsArgument.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="immutable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/immutable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.immutable" />
+        <item itemvalue="Python.functionAsArgument" />
+        <item itemvalue="Python.CustomExceptionClass" />
+        <item itemvalue="Python.ErrorHandling" />
+        <item itemvalue="Python.class_composition_example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4dc5f35-4525-4df0-9ea2-cdcdb71f2849" name="Default Changelist" comment="" />
+      <created>1562706605383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562706605383</updated>
+      <workItem from="1562706606564" duration="2178000" />
+      <workItem from="1562709058754" duration="2276000" />
+      <workItem from="1562713984764" duration="1622000" />
+      <workItem from="1562715847346" duration="597000" />
+      <workItem from="1562782876601" duration="1791000" />
+      <workItem from="1562784685751" duration="1389000" />
+      <workItem from="1562789833660" duration="1779000" />
+      <workItem from="1562791643536" duration="1585000" />
+      <workItem from="1562793489813" duration="1657000" />
+      <workItem from="1562796050544" duration="1787000" />
+      <workItem from="1562797883234" duration="1800000" />
+      <workItem from="1562802703230" duration="803000" />
+      <workItem from="1562869888792" duration="1295000" />
+      <workItem from="1562877316906" duration="1720000" />
+      <workItem from="1562879131824" duration="1309000" />
+      <workItem from="1562882250134" duration="839000" />
+      <workItem from="1562885291426" duration="475000" />
+      <workItem from="1564008166785" duration="1757000" />
+      <workItem from="1564010100277" duration="2033000" />
+      <workItem from="1564013906951" duration="679000" />
+      <workItem from="1564016785329" duration="1792000" />
+      <workItem from="1564018643020" duration="838000" />
+      <workItem from="1564689807684" duration="34000" />
+      <workItem from="1566449983765" duration="58000" />
+      <workItem from="1566450198072" duration="1474000" />
+      <workItem from="1566451711020" duration="784000" />
+      <workItem from="1566452512568" duration="5000" />
+      <workItem from="1566843928946" duration="12000" />
+      <workItem from="1566960104418" duration="856000" />
+      <workItem from="1567018232946" duration="62000" />
+      <workItem from="1567117127190" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35298000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="62" key="SettingsEditor" timestamp="1581556156443">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="229" y="62" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1581556156443" />
+    <state x="229" y="62" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1579911868510" />
+    <state x="406" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1582057014074">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="406" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1582057014074" />
+  </component>
+</project>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ef7fcd2-9e49-4b54-a498-c7aea067cc3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_basics$commandLineArguments.coverage" NAME="commandLineArguments Coverage Results" MODIFIED="1553798022321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/small programs" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>os.</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1RLS0VICeIujrjLYYTfoHnZF3Gq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.MyFirstClass">
+    <configuration name="ExceptionHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/small programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/small programs/ExceptionHandling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IO_basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/small programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/small programs/IO_basics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyFirstClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/small programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/small programs/MyFirstClass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ObjectTypesInPython" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/small programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/small programs/ObjectTypesInPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/small programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/small programs/basics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MyFirstClass" />
+        <item itemvalue="Python.ExceptionHandling" />
+        <item itemvalue="Python.ObjectTypesInPython" />
+        <item itemvalue="Python.basics" />
+        <item itemvalue="Python.IO_basics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ef7fcd2-9e49-4b54-a498-c7aea067cc3e" name="Default Changelist" comment="" />
+      <created>1553797848577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553797848577</updated>
+      <workItem from="1553797851674" duration="1591000" />
+      <workItem from="1553803396280" duration="1169000" />
+      <workItem from="1553806770977" duration="995000" />
+      <workItem from="1554238639222" duration="30000" />
+      <workItem from="1554238744358" duration="48000" />
+      <workItem from="1554238893724" duration="2279000" />
+      <workItem from="1554400420317" duration="12602000" />
+      <workItem from="1555622258073" duration="649000" />
+      <workItem from="1555625085549" duration="10000" />
+      <workItem from="1555626881914" duration="537000" />
+      <workItem from="1558638983451" duration="1120000" />
+      <workItem from="1558645147886" duration="1802000" />
+      <workItem from="1558723643689" duration="1180000" />
+      <workItem from="1558737163498" duration="1063000" />
+      <workItem from="1559153922890" duration="608000" />
+      <workItem from="1559155833025" duration="643000" />
+      <workItem from="1559157301246" duration="113000" />
+      <workItem from="1559157591905" duration="1477000" />
+      <workItem from="1559162133053" duration="1325000" />
+      <workItem from="1559166866179" duration="1561000" />
+      <workItem from="1559169051012" duration="80000" />
+      <workItem from="1559169151314" duration="69000" />
+      <workItem from="1559169380747" duration="79000" />
+      <workItem from="1559169524855" duration="58000" />
+      <workItem from="1559169683878" duration="916000" />
+      <workItem from="1559171512633" duration="2188000" />
+      <workItem from="1559174239351" duration="60000" />
+      <workItem from="1559240462021" duration="1017000" />
+      <workItem from="1559242447100" duration="1520000" />
+      <workItem from="1559252282518" duration="1756000" />
+      <workItem from="1559254218263" duration="1846000" />
+      <workItem from="1559256495075" duration="1604000" />
+      <workItem from="1559258668582" duration="1664000" />
+      <workItem from="1559261755778" duration="230000" />
+      <workItem from="1559333016801" duration="1158000" />
+      <workItem from="1559340822865" duration="1507000" />
+      <workItem from="1559343303370" duration="1571000" />
+      <workItem from="1559345129376" duration="639000" />
+      <workItem from="1559603567304" duration="976000" />
+      <workItem from="1559688731471" duration="692000" />
+      <workItem from="1560121804728" duration="947000" />
+      <workItem from="1560372102761" duration="42000" />
+      <workItem from="1560382608273" duration="1296000" />
+      <workItem from="1560452327426" duration="85000" />
+      <workItem from="1560454660969" duration="6000" />
+      <workItem from="1560467147192" duration="2000" />
+      <workItem from="1560543107854" duration="18000" />
+      <workItem from="1561573897738" duration="1332000" />
+      <workItem from="1561575708128" duration="599000" />
+      <workItem from="1561583834806" duration="599000" />
+      <workItem from="1561587454429" duration="1133000" />
+      <workItem from="1561672077041" duration="1791000" />
+      <workItem from="1561677741085" duration="607000" />
+      <workItem from="1561746096813" duration="600000" />
+      <workItem from="1561748027014" duration="601000" />
+      <workItem from="1561759494540" duration="1781000" />
+      <workItem from="1562091407628" duration="1795000" />
+      <workItem from="1562096748963" duration="1578000" />
+      <workItem from="1562099445562" duration="84000" />
+      <workItem from="1562099634211" duration="598000" />
+      <workItem from="1562100605407" duration="778000" />
+      <workItem from="1562102871283" duration="1916000" />
+      <workItem from="1562706572247" duration="33000" />
+      <workItem from="1566452218335" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68944000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="62" key="SettingsEditor" timestamp="1581556179038">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="229" y="62" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1581556179038" />
+    <state x="229" y="62" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1579912140404" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579912074419">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1579912074419" />
+  </component>
+</project>
